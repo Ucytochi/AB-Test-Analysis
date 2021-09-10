@@ -1,4 +1,4 @@
-## [Project Description](#project_des)
+## Project Description
 ---
 Given two different datasets of a company's customers' activities (orders and visits) and a compiled list of hypotheses that may help boost revenue, we aimed at prioritizing these hypotheses and analyzing the results of the A/B test on the given data.
 
